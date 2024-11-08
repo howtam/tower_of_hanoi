@@ -1,2 +1,2 @@
 # tower_of_hanoi
-A cllection of recursive functions
+A collection of recursive functions
